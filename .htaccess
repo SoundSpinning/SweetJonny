@@ -1,0 +1,40 @@
+#
+# Added by 'Sound Spinning' on 20-Mar-2018 to show always in searches "http://" format
+# and to re-direct old links to new site
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.sweetjonny\.co\.uk [NC]
+RewriteRule ^(.*)$ http://sweetjonny.co.uk/$1 [L,R=301,NC]
+#
+RewriteRule ^(gigs/) http://sweetjonny.co.uk [L,R=301,NC]
+RewriteRule ^(music/) http://sweetjonny.co.uk [L,R=301,NC]
+RewriteRule ^(merchandise/) http://sweetjonny.co.uk [L,R=301,NC]
+RewriteRule ^(videos/) http://sweetjonny.co.uk [L,R=301,NC]
+RewriteRule ^(gallery/) http://sweetjonny.co.uk [L,R=301,NC]
+#
+# Rewrite everything to https
+# RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+#
+## EXPIRES CACHING ##
+<IfModule mod_expires.c>
+    # Enable expirations
+    ExpiresActive On
+    # Default directive
+    ExpiresDefault "access plus 1 week"
+    # Images
+    ExpiresByType image/gif "access plus 1 month"
+    ExpiresByType image/png "access plus 1 week"
+    ExpiresByType image/jpg "access plus 1 week"
+    ExpiresByType image/jpeg "access plus 1 week"
+    ExpiresByType image/x-icon "access plus 1 year"
+    # CSS
+    ExpiresByType text/css "access plus 1 week"
+    # Javascript
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType text/x-javascript "access plus 1 month"
+    # Others
+    ExpiresByType text/html "access plus 1 week"
+    ExpiresByType application/pdf "access plus 1 year"
+    ExpiresByType application/x-shockwave-flash "access plus 1 month"
+</IfModule>

@@ -1,0 +1,256 @@
+/* ---------------------
+   CUSTOM CSS starts
+   --------------------- */
+
+/* GLOBAL STYLES
+---------------- */
+
+body {
+    font: 400 15px/1.8 Lato, sans-serif;
+}
+h3, h4 {
+    margin: 10px 0 20px 0;
+    letter-spacing: 10px;
+    font-size: 20px;
+    color: #111;
+}
+textarea {
+    resize: none;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+.container {
+    padding-top: 2rem;
+}
+/* oi = Open Iconic*/
+.oi {
+    color: #bdbdbd;
+    font-size: 1.2rem;
+}
+
+.bg-1 {
+    background: #2d2d30;
+    color: #bdbdbd;
+}
+.bg-1 h3 {
+    color: #fff;
+}
+.card {
+    /*border-radius: 0;*/
+    background: transparent;
+    border: none;
+}
+.card p {
+    font-family: sans-serif;
+    color: rgb(80, 196, 28);
+}
+.card span {
+    font-size: 1.2rem;
+}
+.card:hover > p {
+    color: unset;
+    /*color: rgb(80, 196, 28);*/
+}
+
+.blockquote p, #videos div div div.card p, #music div div div p, #shop div div div p span {
+    font-family: 'Special Elite', cursive;
+}
+
+#music div div div.card, #videos div div div.card, #shop div div div.card, .btn-outline-light {
+    -webkit-transition: all 1s cubic-bezier(0,.29,0,.29);
+    transition: all 1s cubic-bezier(0,.29,0,.29);
+}
+
+#music div div div.card:hover, #shop div div div.card:hover {
+    background: #2d2d30;
+    /*background: transparent;*/
+    /*border: none;*/
+}
+
+#videos div div div.card:hover {
+    background: black !important;
+    padding: 0.5em 0 0.5em 0 !important;
+}
+
+.btn-outline-light {
+    background-color: #2d2d30;
+}
+
+.btn-outline-light:hover {
+    color: initial;
+    background-color: white;
+    border-color: white;
+}
+
+
+/* NAVBAR
+   ------ */
+.navbar {
+    font-family: Montserrat, sans-serif;
+    letter-spacing: 1px;
+    background-color: black;
+}
+.navbar-brand {
+    opacity: 1.0;
+}
+.navbar-brand img {
+    width: 3rem;
+}
+.nav-link.active, nav a b {
+    font-weight: bold;
+    color: rgb(87, 252, 16) !important;
+}
+
+/* Underline NavBar From Center
+------------------------------- */
+/* Exclude devices when menu collapses */
+@media screen and (min-width : 992px) {
+    .navbar-nav > a:before {
+        content: "";
+        position: absolute;
+        z-index: -1;
+        left: 50%;
+        right: 50%;
+        bottom: 15px;
+        background: rgb(87, 252, 16, 0.75);
+        height: 1px;
+      -webkit-transition-property: left, right;
+      transition-property: left, right;
+      -webkit-transition-duration: 0.5s;
+      transition-duration: 0.5s;
+      -webkit-transition-timing-function: ease-out;
+      transition-timing-function: ease-out;
+    }
+    .navbar-nav > a:hover:before {
+      left: 65px;
+      right: 20px;
+    }
+}
+/* end NAVBAR custom */
+
+.a-link {
+    color: #212529;   
+}
+
+/* Carousel */
+#photos {
+  margin-top: 64px;
+  background-color: black;
+}
+.carousel-indicators li.active {
+  background-color: rgb(87, 252, 16, 0.75);
+}
+.carousel-indicators {
+  position: static;
+}
+.carousel-control-prev, .carousel-control-next {
+  width: 10%;
+  height: 80%;
+}
+
+
+/* CUSTOMIZE Carousel Anim
+-------------------------------- */
+.carAnim img {
+  -webkit-animation: carFade 4s ease 0s infinite alternate;
+  animation: carFade 4s ease 0s infinite alternate;
+}
+    
+@keyframes carFade {
+  from { opacity: 0.1; }
+  to   { opacity: 1.0; }     
+}
+
+/* CUSTOMIZE ImgAnim
+-------------------------------- */
+.ImgAnim blockquote {
+  -webkit-animation: ImgFade 5s ease 0s infinite alternate;
+  animation: ImgFade 5s ease 0s infinite alternate;
+}
+    
+@keyframes ImgFade {
+  from { opacity: 0.1; }
+  to   { opacity: 1.0; }     
+}
+/* ... end ImgAnim settings */
+
+.blockquote-footer {
+    background-color: transparent;
+}
+
+footer {
+    background-color: #2d2d30;
+    color: #f5f5f5;
+    /*padding: 0.5rem 5rem 0.1rem 5rem;*/
+    line-height: 12px;
+}
+footer p {
+    font-family: Montserrat, sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+}
+
+footer a {
+    color: #f5f5f5;
+}
+footer a:hover {
+    color: #777;
+    text-decoration: none;
+}
+footer img {
+    width: 2rem;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+.social-icons * {
+    vertical-align: unset;
+}
+.social-icons img:hover {
+    background-color: rgb(87, 252, 16);
+    border-radius: 10px;
+}
+
+/* =================================================
+   =         Bootstrap 4.0 Media Queries             =
+   ================================================= */
+
+  /* -------------- Mobile First Method ------------ */
+/*
+/* Extra small devices (portrait phones, less than 576px) */ 
+@media screen and (max-width : 576px) {
+  .carousel-inner { height: 200px; }
+  .reviews { height: 225px; }
+  blockquote * { font-size: 0.9rem; }
+}
+
+/* Small devices (landscape phones, 576px and up) */ 
+@media screen and (min-width : 576px) {
+  .carousel-inner { height: 400px; }
+  .reviews { height: 205px; }
+  blockquote * { font-size: 1.15rem; }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media screen and (min-width : 768px) {
+  .carousel-inner { height: 450px; }
+  .reviews { height: 175px; }
+  blockquote * { font-size: 1.25rem; }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media screen and (min-width : 992px) {
+  .carousel-inner { height: 700px; }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media screen and (min-width : 1200px) {
+
+  }
+}
+
