@@ -146,6 +146,10 @@ p {
 .carousel-indicators {
   position: static;
 }
+.carousel-indicators li {
+  width: 20px;
+  height: 15px;
+}
 .carousel-control-prev, .carousel-control-next {
   width: 10%;
   height: 80%;
