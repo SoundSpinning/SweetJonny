@@ -2,29 +2,29 @@
 // lazyloading of images
 // https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/
 
-(function() {
-  if ("loading" in HTMLImageElement.prototype) {
-    var lazyEls = document.querySelectorAll("[loading=lazy]");
-    lazyEls.forEach(function(lazyEl) {
-      lazyEl.setAttribute(
-        "src",
-        lazyEl.getAttribute("data-src")
-      );
-    });
-  } else {
-    // Dynamically include a lazy loading library of your choice
-    // Here including vanilla-lazyload
-    var script = document.createElement("script");
-    script.async = true;
-    script.src =
-      "https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.0.0/dist/lazyload.min.js";
-    window.lazyLoadOptions = {
-      elements_selector: "[loading=lazy]"
-      //eventually more options here
-    };
-    document.body.appendChild(script);
-  }
-})();
+// (function() {
+//   if ("loading" in HTMLImageElement.prototype) {
+//     var lazyEls = document.querySelectorAll("[loading=lazy]");
+//     lazyEls.forEach(function(lazyEl) {
+//       lazyEl.setAttribute(
+//         "src",
+//         lazyEl.getAttribute("data-src")
+//       );
+//     });
+//   } else {
+//     // Dynamically include a lazy loading library of your choice
+//     // Here including vanilla-lazyload
+//     var script = document.createElement("script");
+//     script.async = true;
+//     script.src =
+//       "https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.0.0/dist/lazyload.min.js";
+//     window.lazyLoadOptions = {
+//       elements_selector: "[loading=lazy]"
+//       //eventually more options here
+//     };
+//     document.body.appendChild(script);
+//   }
+// })();
 
 
 // Initialize Tooltip

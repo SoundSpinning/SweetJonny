@@ -39,7 +39,6 @@ p {
     color: #fff;
 }
 .card {
-    /*border-radius: 0;*/
     background: transparent;
     border: none;
 }
@@ -52,7 +51,6 @@ p {
 }
 .card:hover > p {
     color: unset;
-    /*color: rgb(80, 196, 28);*/
 }
 
 .blockquote p, #videos div div div.card p, #music div div div p, #shop div div div p span {
@@ -66,8 +64,6 @@ p {
 
 #music div div div.card:hover, #shop div div div.card:hover {
     background: #2d2d30;
-    /*background: transparent;*/
-    /*border: none;*/
 }
 
 #videos div div div.card:hover {
