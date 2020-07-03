@@ -19,7 +19,8 @@ textarea {
 }
 
 p {
-    font-size: 1.1rem;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
 }
 
 .container {
@@ -95,6 +96,15 @@ p {
 .navbar-brand img {
     width: 3rem;
 }
+
+.nav-link {
+  color: rgba(255,255,255,.7) !important;
+}
+
+.nav-link:hover {
+  color: rgba(255,255,255,.8) !important;
+}
+
 .nav-link.active, nav a b {
     font-weight: bold;
     color: rgb(87, 252, 16) !important;
@@ -128,12 +138,12 @@ p {
 /* end NAVBAR custom */
 
 .a-link {
-    color: #212529;   
+  color: #212529;   
 }
 
 /* Carousel */
 #photos {
-  margin-top: 64px;
+  margin-top: 60px;
   background-color: black;
 }
 .carousel-indicators li.active {
@@ -215,6 +225,65 @@ footer img {
     background-color: rgb(87, 252, 16);
     border-radius: 10px;
 }
+
+
+/* iFrames lazy loading CSS */
+
+.if-wrap {
+  position: relative;
+  height: 100%;
+}
+
+/*.if-wrap a,*/
+.if-wrap a svg {
+  position: relative;
+}
+
+.if-wrap a {
+  position: absolute;
+
+  left: 50%;
+  top: 50%;
+  width: 80px;
+  height: 80px;
+  margin-left: -40px;
+  margin-top: -40px;
+  -moz-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+  -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+  transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
+} 
+
+.if-wrap a:hover {
+  -moz-transition: transform 0.1s ease 0s;
+  -webkit-transition: transform 0.1s ease 0s;
+  transition: transform 0.1s ease 0s;
+  -moz-transform: scale(1.05);
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
+}
+
+.if-wrap svg path {
+  -moz-transition: fill .1s cubic-bezier(0.4,0.0,1,1),fill-opacity .1s cubic-bezier(0.4,0.0,1,1);
+  -webkit-transition: fill .1s cubic-bezier(0.4,0.0,1,1),fill-opacity .1s cubic-bezier(0.4,0.0,1,1);
+  transition: fill .1s cubic-bezier(0.4,0.0,1,1),fill-opacity .1s cubic-bezier(0.4,0.0,1,1);
+  fill: rgb(87, 252, 16);
+  fill-opacity: 0.7;
+}
+
+.if-wrap a:hover * {
+  fill-opacity: 1;
+  font-weight: bold;
+}
+
+.if-wrap a:hover text {
+  font-weight: bold;
+}
+
+.if-wrap svg text {
+  fill: #cacaca;
+  font-size: 6.5rem;
+}
+
 
 /* =================================================
    =         Bootstrap 4.0 Media Queries             =
