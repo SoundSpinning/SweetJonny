@@ -4,16 +4,25 @@
 
 /* GLOBAL STYLES
 ---------------- */
+html {
+  scroll-behavior: smooth;
+}
+
+html * {
+  scroll-margin-top: 60px;
+}
 
 body {
     font: 400 15px/1.8 Lato, sans-serif;
 }
+
 h3, h4 {
     margin: 10px 0 20px 0;
     letter-spacing: 10px;
     font-size: 20px;
     color: #111;
 }
+
 textarea {
     resize: none;
     margin-bottom: 0.5rem;
@@ -30,11 +39,6 @@ p {
 
 .container {
     padding-top: 2rem;
-}
-/* oi = Open Iconic*/
-.oi {
-    color: #bdbdbd;
-    font-size: 1.2rem;
 }
 
 .bg-1 {
@@ -231,6 +235,16 @@ footer img {
     border-radius: 10px;
 }
 
+.close {
+  color: lightgray;
+  position: relative;
+  right: 15px;
+}
+
+.close:hover {
+  color: chartreuse;
+}
+
 
 /* iFrames lazy loading CSS */
 
@@ -287,6 +301,10 @@ footer img {
 .if-wrap svg text {
   fill: #cacaca;
   font-size: 6.5rem;
+}
+
+svg.bi {
+  font-size: 1.7rem;
 }
 
 
