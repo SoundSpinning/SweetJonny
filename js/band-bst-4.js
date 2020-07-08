@@ -8,26 +8,11 @@ $(document).ready(function(){
   });
 })
 
-// Get the height of the fixed nav bar
-// var elnav = $("nav");
 
-// var elnav = document.querySelector('.navbar');
-// var headerHeight = 10.0;
-// if (elnav !== null) {
-//     headerHeight = headerHeight + elnav.height();
-// } 
-// Smooth scroll snippet
-// =====================
-// $(document).ready(function(){
-//     $('a[href*="#"]:not([href*="#ns-"]').on('click',function (e) {
-//     e.preventDefault();
-//     var thistarget = this.hash;
-//     $thistarget = $(thistarget);
-//     $('html').stop().animate({
-//         'scrollTop': $thistarget.offset().top - headerHeight
-//         }, 1000, 'swing' 
-//     );
-// });
-// return false;
-// });
+// Register service worker to control making site work offline
 
+if('serviceWorker' in navigator) {
+  navigator.serviceWorker
+           .register('./js/serviceWorker.js')
+           .then(function() { console.log('Service Worker Registered'); });
+}
