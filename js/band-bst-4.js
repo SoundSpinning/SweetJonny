@@ -13,6 +13,6 @@ $(document).ready(function(){
 
 if('serviceWorker' in navigator) {
   navigator.serviceWorker
-           .register('./js/serviceWorker.js')
+           .register('./serviceWorker.js')
            .then(function() { console.log('Service Worker Registered'); });
 }
