@@ -24,9 +24,9 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
     ExpiresDefault "access plus 1 week"
     # Images
     ExpiresByType image/gif "access plus 1 month"
-    ExpiresByType image/png "access plus 1 week"
-    ExpiresByType image/jpg "access plus 1 week"
-    ExpiresByType image/jpeg "access plus 1 week"
+    ExpiresByType image/png "access plus 1 month"
+    ExpiresByType image/jpg "access plus 1 month"
+    ExpiresByType image/jpeg "access plus 1 month"
     ExpiresByType image/x-icon "access plus 1 year"
     # CSS
     ExpiresByType text/css "access plus 1 week"

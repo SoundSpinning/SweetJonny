@@ -1,5 +1,5 @@
 {
-    "name": "Your garage rock band",
+    "name": "Sweet Jonny | garage rock band",
     "short_name": "Sweet Jonny",
     "icons": [
         {
@@ -15,6 +15,6 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "start_url": "https://sweetjonny.co.uk/",
+    "start_url": "./index.html",
     "display": "standalone"
 }
