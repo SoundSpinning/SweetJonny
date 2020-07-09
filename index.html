@@ -573,6 +573,11 @@
 
   <!-- CUSTOM JS -->
   <script src="js/band-bst-4.js"></script>
+
+  <script type="text/javascript">
+    // Register service worker to control making site work offline
+    navigator.serviceWorker.register('/serviceWorker.js');
+  </script>
   
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <script async>

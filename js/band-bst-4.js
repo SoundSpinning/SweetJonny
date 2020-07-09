@@ -10,7 +10,7 @@ $(document).ready(function(){
 
 
 // Register service worker to control making site work offline
-navigator.serviceWorker.register('../serviceWorker.js');
+// navigator.serviceWorker.register('serviceWorker.js');
 
 // if('serviceWorker' in navigator) {
 //   navigator.serviceWorker
