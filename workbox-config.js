@@ -9,5 +9,5 @@ module.exports = {
     "./fonts/*.svg"
   ],
   "swDest": "./sw.js",
-  "swSrc": "./service-worker.js"
+  "swSrc": "./sw.js"
 };
