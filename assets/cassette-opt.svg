@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="148mm" height="108mm" version="1.1" viewBox="0 0 148 108" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="Adobe_OpacityMaskFilter" x="369" y="416" width="69.8" height="69.8" filterUnits="userSpaceOnUse">
+   <feColorMatrix color-interpolation-filters="sRGB" result="source" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0"/>
+  </filter>
+  <filter id="Adobe_OpacityMaskFilter_1_" x="561" y="416" width="69.8" height="69.8" filterUnits="userSpaceOnUse">
+   <feColorMatrix color-interpolation-filters="sRGB" result="source" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0"/>
+  </filter>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-27 -82.1)">
+  <g transform="matrix(.265 0 0 .265 -31.4 3.55)">
+   <path id="XMLID_170_" class="st2" d="m234 654-7.1-6.7c-1.8-1.7-2.9-4.3-2.9-7.1v-93.8c0-3.3 1.5-6.3 3.8-7.8l6.2-4.2z"/>
+   <path id="XMLID_168_" class="st3" d="m234 641-7.1-6.7c-1.8-1.7-2.9-4.3-2.9-7.1v-93.8c0-3.3 1.5-6.3 3.8-7.8l6.2-4.2z"/>
+   <path id="XMLID_148_" class="st2" d="m660 700h-320c-5.1 0-8.9-4.7-7.8-9.7l17.3-82c0.8-3.7 4-6.3 7.8-6.3h286c3.8 0 7 2.6 7.8 6.3l17.3 82c1.1 5-2.7 9.7-7.8 9.7z"/>
+   <path id="XMLID_147_" class="st2" d="m754 688h-508c-6.6 0-12-5.4-12-12v-330c0-6.6 5.4-12 12-12h508c6.6 0 12 5.4 12 12v330c0 6.6-5.4 12-12 12z" style="mix-blend-mode:normal"/>
+   <g id="XMLID_175_">
+    <path id="XMLID_172_" class="st2" d="m766 648 7.1-6.7c1.8-1.7 2.9-4.3 2.9-7.1v-93.8c0-3.3-1.5-6.3-3.8-7.8l-6.2-4.2z"/>
+    <path id="XMLID_167_" class="st3" d="m766 635 7.1-6.7c1.8-1.7 2.9-4.3 2.9-7.1v-93.8c0-3.3-1.5-6.3-3.8-7.8l-6.2-4.2z"/>
+    <path id="XMLID_163_" class="st4" d="m766 628 7.1-6.7c1.8-1.7 2.9-4.3 2.9-7.1v-93.8c0-3.3-1.5-6.3-3.8-7.8l-6.2-4.2z"/>
+    <path id="XMLID_150_" class="st3" d="m766 628 7.1-6.7c1.8-1.7 2.9-4.3 2.9-7.1v-93.8c0-3.3-1.5-6.3-3.8-7.8l-6.2-4.2z"/>
+   </g>
+   <path id="XMLID_49_" class="st5" d="m754 663h-508c-6.6 0-12-5.4-12-12v-330c0-6.6 5.4-12 12-12h508c6.6 0 12 5.4 12 12v330c0 6.6-5.4 12-12 12z"/>
+   <path id="XMLID_47_" class="st5" d="m660 676h-320c-5.1 0-8.9-4.7-7.8-9.7l17.3-82c0.8-3.7 4-6.3 7.8-6.3h286c3.8 0 7 2.6 7.8 6.3l17.3 82c1.1 5-2.7 9.7-7.8 9.7z"/>
+   <path id="XMLID_2_" class="st6" d="m754 654h-508c-6.6 0-12-5.4-12-12v-330c0-6.6 5.4-12 12-12h508c6.6 0 12 5.4 12 12v330c0 6.6-5.4 12-12 12z"/>
+   <path id="XMLID_14_" class="st7" d="m754 654h-508c-6.6 0-12-5.4-12-12v-330c0-6.6 5.4-12 12-12h508c6.6 0 12 5.4 12 12v330c0 6.6-5.4 12-12 12z" style="mix-blend-mode:normal"/>
+   <g id="XMLID_104_">
+    <circle id="XMLID_103_" class="st4" cx="265" cy="328" r="15.2"/>
+    <circle id="XMLID_149_" class="st8" cx="265" cy="328" r="10.5"/>
+    <circle id="XMLID_10_" class="st9" cx="265" cy="328" r="10.5"/>
+    <line id="XMLID_34_" class="st9" x1="262" x2="269" y1="325" y2="332"/>
+    <line id="XMLID_27_" class="st9" x1="269" x2="262" y1="325" y2="332"/>
+   </g>
+   <g id="XMLID_106_">
+    <circle id="XMLID_112_" class="st4" cx="734" cy="328" r="15.2"/>
+    <circle id="XMLID_151_" class="st8" cx="734" cy="328" r="10.5"/>
+    <circle id="XMLID_110_" class="st9" cx="734" cy="328" r="10.5"/>
+    <line id="XMLID_108_" class="st9" x1="730" x2="738" y1="325" y2="332"/>
+    <line id="XMLID_107_" class="st9" x1="738" x2="730" y1="325" y2="332"/>
+   </g>
+   <path id="XMLID_23_" class="st4" d="m677 632-12.6-60c-1.8-8.5-9.4-15-18.1-15h-294c-8.7 0-16.3 6.5-18.1 15l-12.6 60z"/>
+   <path id="XMLID_19_" class="st10" d="m712 565h-424c-3.3 0-6-2.7-6-6v-182c0-11 9-20 20-20h396c11 0 20 9 20 20v182c0 3.3-2.7 6-6 6z"/>
+   <path id="XMLID_18_" class="st4" d="m754 654h-508c-6.6 0-12-5.4-12-12v-14.6h532v14.6c0 6.6-5.4 12-12 12z"/>
+   <path id="XMLID_17_" class="st11" d="m766 316h-532v-4c0-6.6 5.4-12 12-12h508c6.6 0 12 5.4 12 12z"/>
+   <path id="XMLID_13_" class="st3" d="m754 654h-508c-6.6 0-12-5.4-12-12v-330c0-6.6 5.4-12 12-12h508c6.6 0 12 5.4 12 12v330c0 6.6-5.4 12-12 12z"/>
+   <path id="XMLID_15_" class="st12" d="m712 555h-424c-3.3 0-6-2.7-6-6v-182c0-11 9-20 20-20h396c11 0 20 9 20 20v182c0 3.3-2.7 6-6 6z"/>
+   <path id="XMLID_37_" class="st13" d="m712 555h-424c-3.3 0-6-2.7-6-6v-141h436v141c0 3.3-2.7 6-6 6z"/>
+   <path id="XMLID_3_" class="st3" d="m712 555h-424c-3.3 0-6-2.7-6-6v-182c0-11 9-20 20-20h396c11 0 20 9 20 20v182c0 3.3-2.7 6-6 6z"/>
+   <path id="XMLID_16_" class="st7" d="m660 667h-320c-5.1 0-8.9-4.7-7.8-9.7l17.3-82c0.8-3.7 4-6.3 7.8-6.3h286c3.8 0 7 2.6 7.8 6.3l17.3 82c1.1 5-2.7 9.7-7.8 9.7z"/>
+   <line id="XMLID_59_" class="st14" x1="347" x2="347" y1="589" y2="659"/>
+   <line id="XMLID_60_" class="st14" x1="652" x2="652" y1="580" y2="662"/>
+   <g id="XMLID_22_">
+    <line id="XMLID_4_" class="st14" x1="365" x2="365" y1="569" y2="662"/>
+    <line class="st14" x1="382" x2="382" y1="569" y2="662"/>
+    <line class="st14" x1="399" x2="399" y1="569" y2="662"/>
+    <line class="st14" x1="416" x2="416" y1="569" y2="662"/>
+    <line class="st14" x1="432" x2="432" y1="569" y2="662"/>
+    <line class="st14" x1="449" x2="449" y1="569" y2="662"/>
+    <line class="st14" x1="466" x2="466" y1="569" y2="662"/>
+    <line class="st14" x1="483" x2="483" y1="569" y2="662"/>
+    <line class="st14" x1="500" x2="500" y1="569" y2="662"/>
+    <line class="st14" x1="517" x2="517" y1="569" y2="662"/>
+    <line class="st14" x1="534" x2="534" y1="569" y2="662"/>
+    <line class="st14" x1="551" x2="551" y1="569" y2="662"/>
+    <line class="st14" x1="568" x2="568" y1="569" y2="662"/>
+    <line class="st14" x1="584" x2="584" y1="569" y2="662"/>
+    <line class="st14" x1="601" x2="601" y1="569" y2="662"/>
+    <line class="st14" x1="618" x2="618" y1="569" y2="662"/>
+    <line id="XMLID_1_" class="st14" x1="635" x2="635" y1="569" y2="662"/>
+   </g>
+   <path id="XMLID_26_" class="st4" d="m665 644c-1.3 1-3 1.7-4.9 1.7h-320c-1.9 0-3.5-0.6-4.9-1.7l-3 14c-1 5 2.7 9.7 7.8 9.7h320c5.1 0 8.9-4.7 7.8-9.7z"/>
+   <path id="XMLID_9_" class="st3" d="m660 667h-320c-5.1 0-8.9-4.7-7.8-9.7l17.3-82c0.8-3.7 4-6.3 7.8-6.3h286c3.8 0 7 2.6 7.8 6.3l17.3 82c1.1 5-2.7 9.7-7.8 9.7z"/>
+   <path id="XMLID_11_" class="st7" d="m638 491h-276c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h276c6.6 0 12 5.4 12 12v56c0 6.6-5.4 12-12 12z"/>
+   <path id="XMLID_161_" class="st4" d="m638 411h-276c-6.6 0-12 5.4-12 12v15c0-6.6 5.4-12 12-12h276c6.6 0 12 5.4 12 12v-15c0-6.6-5.4-12-12-12z"/>
+   <path id="XMLID_20_" class="st3" d="m638 491h-276c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h276c6.6 0 12 5.4 12 12v56c0 6.6-5.4 12-12 12z"/>
+   <path id="XMLID_21_" class="st15" d="m347 586"/>
+   <circle id="XMLID_61_" class="st4" cx="391" cy="632" r="18.2"/>
+   <circle id="XMLID_58_" class="st3" cx="391" cy="632" r="11.3"/>
+   <circle id="XMLID_68_" class="st4" cx="608" cy="632" r="18.2"/>
+   <circle id="XMLID_67_" class="st3" cx="608" cy="632" r="11.3"/>
+   <circle id="XMLID_64_" class="st4" cx="451" cy="601" r="14.8"/>
+   <circle id="XMLID_63_" class="st3" cx="451" cy="601" r="9.2"/>
+   <circle id="XMLID_66_" class="st4" cx="548" cy="601" r="14.8"/>
+   <circle id="XMLID_65_" class="st3" cx="548" cy="601" r="9.2"/>
+   <g id="XMLID_76_">
+    <circle id="XMLID_62_" class="st1" cx="404" cy="451" r="28.7"/>
+    <mask id="XMLID_6_" x="369" y="416.4" width="69.8" height="69.8" maskUnits="userSpaceOnUse">
+     <g id="XMLID_72_" class="st16">
+      <circle id="XMLID_74_" cx="404" cy="451" r="26.5"/>
+     </g>
+    </mask>
+    <g id="XMLID_73_" class="st17" mask="url(#XMLID_6_)">
+     <line id="XMLID_70_" class="st14" x1="404" x2="404" y1="420" y2="482"/>
+     <line id="XMLID_69_" class="st14" x1="435" x2="373" y1="451" y2="451"/>
+     <line id="XMLID_40_" class="st14" x1="426" x2="382" y1="430" y2="473"/>
+     <line id="XMLID_38_" class="st14" x1="426" x2="382" y1="473" y2="430"/>
+    </g>
+    <circle id="XMLID_71_" class="st4" cx="404" cy="451" r="17.4"/>
+    <circle id="XMLID_75_" class="st18" cx="404" cy="451" r="28.7"/>
+   </g>
+   <g id="XMLID_88_">
+    <circle id="XMLID_102_" class="st1" cx="596" cy="451" r="28.7"/>
+    <mask id="XMLID_7_" x="560.7" y="416.4" width="69.8" height="69.8" maskUnits="userSpaceOnUse">
+     <g id="XMLID_95_" class="st19">
+      <circle id="XMLID_97_" cx="596" cy="451" r="26.5"/>
+     </g>
+    </mask>
+    <g id="XMLID_93_" class="st20" mask="url(#XMLID_7_)">
+     <line id="XMLID_101_" class="st14" x1="596" x2="596" y1="420" y2="482"/>
+     <line id="XMLID_100_" class="st14" x1="626" x2="565" y1="451" y2="451"/>
+     <line id="XMLID_99_" class="st14" x1="617" x2="574" y1="430" y2="473"/>
+     <line id="XMLID_98_" class="st14" x1="617" x2="574" y1="473" y2="430"/>
+    </g>
+    <circle id="XMLID_90_" class="st4" cx="596" cy="451" r="17.4"/>
+    <circle id="XMLID_89_" class="st18" cx="596" cy="451" r="28.7"/>
+   </g>
+   <path id="XMLID_78_" class="st0" d="m547 473h-94.2c-3.3 0-6-2.7-6-6v-36c0-3.3 2.7-6 6-6h94.2c3.3 0 6 2.7 6 6v36c0 3.3-2.7 6-6 6z"/>
+   <g id="XMLID_123_">
+    <circle id="XMLID_128_" class="st4" cx="265" cy="621" r="15.2"/>
+    <circle id="XMLID_127_" class="st9" cx="265" cy="621" r="10.5"/>
+    <line id="XMLID_126_" class="st9" x1="262" x2="269" y1="617" y2="624"/>
+    <line id="XMLID_125_" class="st9" x1="269" x2="262" y1="617" y2="624"/>
+   </g>
+   <g id="XMLID_114_">
+    <circle id="XMLID_119_" class="st4" cx="734" cy="621" r="15.2"/>
+    <circle id="XMLID_118_" class="st9" cx="734" cy="621" r="10.5"/>
+    <line id="XMLID_117_" class="st9" x1="730" x2="738" y1="617" y2="624"/>
+    <line id="XMLID_116_" class="st9" x1="738" x2="730" y1="617" y2="624"/>
+   </g>
+   <g id="XMLID_131_">
+    <circle id="XMLID_135_" class="st4" cx="500" cy="595" r="10.2"/>
+    <circle id="XMLID_134_" class="st21" cx="500" cy="595" r="7.1"/>
+    <line id="XMLID_133_" class="st21" x1="497" x2="503" y1="595" y2="595"/>
+    <line id="XMLID_132_" class="st21" x1="500" x2="500" y1="592" y2="598"/>
+   </g>
+   <path id="XMLID_43_" class="st1" d="m447 431v36c0 3.3 2.7 6 6 6h36.1c1.8-7 2.7-14.3 2.7-21.8 0-9.1-1.4-17.9-4-26.2h-34.9c-3.2 0-5.9 2.7-5.9 6z"/>
+   <path id="XMLID_44_" class="st1" d="m540 473h6.7c3.3 0 6-2.7 6-6v-36c0-3.3-2.7-6-6-6h-4.8c-3.9 7.9-6.1 16.8-6.1 26.2 0.1 7.7 1.6 15.1 4.2 21.8z"/>
+   <path id="XMLID_31_" class="st22" d="m547 472h-94.2c-3.3 0-6-2.7-6-6v-34c0-3.3 2.7-6 6-6h94.2c3.3 0 6 2.7 6 6v34c0 3.3-2.7 6-6 6z"/>
+   <polygon id="XMLID_48_" class="st23" points="460 472 479 472 525 426 506 426"/>
+   <polygon id="XMLID_46_" class="st23" points="489 472 499 472 544 426 535 426"/>
+   <path id="XMLID_29_" class="st3" d="m547 473h-94.2c-3.3 0-6-2.7-6-6v-36c0-3.3 2.7-6 6-6h94.2c3.3 0 6 2.7 6 6v36c0 3.3-2.7 6-6 6z"/>
+   <line id="XMLID_50_" class="st24" x1="533" x2="572" y1="511" y2="511"/>
+   <line id="XMLID_45_" class="st24" x1="427" x2="521" y1="511" y2="511"/>
+   <line id="XMLID_51_" class="st24" x1="427" x2="572" y1="527" y2="527"/>
+   <path id="XMLID_32_" class="st25" d="m363 402h-30.5c-3.4 0-6.1-2.7-6.1-6.1v-30.5c0-3.4 2.7-6.1 6.1-6.1h30.5c3.4 0 6.1 2.7 6.1 6.1v30.5c0 3.4-2.7 6.1-6.1 6.1z"/>
+   <g id="XMLID_35_">
+    <path class="st26" d="m352 386h-10.3l-1.8 5h-4.2l8.8-24.6h4.7l8.8 24.6h-4.2zm-5.2-14.8-4 11.4h8z"/>
+   </g>
+   <path id="XMLID_96_" class="st4" d="m234 634-7.1-6.7c-1.8-1.7-2.9-4.3-2.9-7.1v-93.8c0-3.3 1.5-6.3 3.8-7.8l6.2-4.2z"/>
+   <line id="XMLID_92_" class="st27" x1="365" x2="673" y1="369" y2="369"/>
+   <line id="XMLID_94_" class="st27" x1="365" x2="673" y1="381" y2="381"/>
+   <line id="XMLID_152_" class="st27" x1="365" x2="673" y1="393" y2="393"/>
+   <path id="XMLID_91_" class="st3" d="m234 634-7.1-6.7c-1.8-1.7-2.9-4.3-2.9-7.1v-93.8c0-3.3 1.5-6.3 3.8-7.8l6.2-4.2z"/>
+   <image x="286" y="482" width="70.9" height="70.9" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjYwIiBo ZWlnaHQ9IjI2MCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMjYwIDI2MCIgeG1sbnM9Imh0 dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9u cy5vcmcvbnMjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHht bG5zOm9zYj0iaHR0cDovL3d3dy5vcGVuc3dhdGNoYm9vay5vcmcvdXJpLzIwMDkvb3NiIiB4bWxu czpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogPG1l dGFkYXRhPgogIDxyZGY6UkRGPgogICA8Y2M6V29yayByZGY6YWJvdXQ9IiI+CiAgICA8ZGM6Zm9y bWF0PmltYWdlL3N2Zyt4bWw8L2RjOmZvcm1hdD4KICAgIDxkYzp0eXBlIHJkZjpyZXNvdXJjZT0i aHR0cDovL3B1cmwub3JnL2RjL2RjbWl0eXBlL1N0aWxsSW1hZ2UiLz4KICAgIDxkYzp0aXRsZS8+ CiAgIDwvY2M6V29yaz4KICA8L3JkZjpSREY+CiA8L21ldGFkYXRhPgogPGc+CiAgPHBhdGggdHJh bnNmb3JtPSJtYXRyaXgoMS4zMyAwIDAgMS4zMyAtMzcuMyAtNDMpIiBkPSJtODQuNyAzNy41Yy05 LjEyIDAuMTktMTkuMyAyLjk1LTI1LjIgMTAuMy0yLjY5IDguMzgtOS43NyAxNC40LTEyLjQgMjIu Ny0zLjIzIDkuOTEtMC4wNDQyIDIwLjEtMC4yODUgMzAuMiAwLjI0IDkuMyA5Ljk4IDE2IDE4Ljgg MTMuNCA1Ljc5LTEuNDIgMTcuNS0xMC44IDE0LjEgMS44My03LjE0IDMuMzItMTYuMi0wLjQ1Mi0y My4yIDQuMzctOC4zOSAzLjYxLTE1LjggOS45Ny0xMS43IDIzLjggMS42MiA5LjQ4LTEuMDcgMTgu Mi0wLjMxNCAyOC4zIDMuNDggNi41MyA2LjYzIDguNzggMTAuMyAyMC4zIDUuNzMgOS43MyA1LjUx IDE0LjYgNy42MyAyMi4yIDEuMTggOC4yIDguMTkgMTAuOSAxMSAyLjcxIDAuNzk4LTQuOTctMC4x MTgtMTAuMyA1LjY1LTkuODcgOS41MS0wLjc5MyAxOS4yLTIuMTMgMjAuMi0xMi40IDIuMjYtNS45 MiAxLjgxLTE3LjcgNi40Ny0yMC0wLjE5NCAzLjg5IDEuMjEgMTEuOSA1LjQ3IDUuMjIgMi41NC0z Ljg0IDAuNjA3LTE5LjQgNS43My04LjQgMy43NiA3LjgxIDQuMTMgMTkuMSAxNC42IDIxLjIgMTAu MS0wLjAyNTkgMTIuNSAxMS40IDE3LjcgMTcuOCAxLjU5IDUuMDggMy4zNyAxMS45IDUuNjEgMTEu MyAzLjU0LTAuODAzIDguMjEtOS40NiA4LjIxLTE0LjYgNy4zOS0yLjE5IDEzIDEuMDEgMjEuMi02 LjU3IDQuODYtOC4yNSAxNS43LTYuNDMgMTcuNi0xNi4zIDQuOTgtMTIuNiAyLjQ3LTI1LjUgMC4y MS0zOC44IDQuMDYtMTYuMS0yLjI3LTE3LjUtMS43MS0yNi44LTIuNDItMTAuNC0yLjUxLTIxLjIt Mi43OS0zMS44LTAuNDUxLTguMDEtMS44My0xNS45LTQuNjEtMjMuNS0yLjEyLTcuOTYtNy41Ni0x NC44LTE0LTE5LjgtMTIuOC01LjAxLTI3LjcgMS45Ny0zNS44IDEyLjItNi4zOSA2LjUtMS45MyAx NS0xLjE4IDIyLjYgMS44NSAxMS43IDEuODEgMjMuNSAyLjk5IDM1LjMgMS43NSA0Ljk5IDYuNzUg MTAuOSA1LjEgMTYtMy45My03Ljc1LTE0LjItMTAuMi0yMS4xLTQuODctNy42NCA2LjYtOS44Ny0w LjkwMS0xMC40LTcuNjctMi4zMy04LjQxLTYuMDgtMTYuMy0xMC41LTIzLjcgMy42OS03LjY1IDcu ODEtMTYuNyAzLjcxLTI1LjQtMy44Ni04LjI1IDAuMDExOC0xOS45LTguMTktMjYtNS45OC0yLjc0 LTEyLjMtNS4yOS0xOS01LjE1eiIgZmlsbD0iIzAwMDEwMCIvPgogPC9nPgogPGc+CiAgPHBhdGgg dHJhbnNmb3JtPSJtYXRyaXgoMS4zMyAwIDAgMS4zMyAtMzcuMyAtNDMpIiBkPSJtODIuNSA0MC40 YzExLjQtMC40NjYgMjQuNyA3LjM4IDI0LjUgMjAgMS4zMSA4Ljk5IDQuOTEgMTggMS4yIDI2LjYt MS4zNCAzLjg1LTExLjItMS40OC01Ljc3IDQuNiA3LjU2IDExLjcgMTEgMjUuNCAxNS4zIDM4LjUg My42NyA4LjgxLTQuMzYgMTUuNS02Ljk3IDIyLjktMC45ODUgNy43OSAxLjE1IDE2LjItMS43OSAy My42IDAuMTI3LTUuODctNS4xMi04LjUtNy43My0yLjEtNC42MiA3Ljc5LTEuODYgMTEuNi04LjY1 IDI1LjctNC43MiAxLjY1LTEwLjcgNC4xMS0xOC42IDQuMTktNy4zNSAwLjk3Ni0wLjQ4MiAxOC41 LTYuNjkgMTUuMS0zLjc4LTcuNTYtMi42Ny0xNi42LTYuMTYtMjQuMS02Ljg5LTUuODktMi4zNy0x Mi0xMi41LTIzLjkgMS4yNi03LjkzIDAuNDExLTE0LjUgMC40MjYtMjMtMS4xOS03LjY1LTIuMS0x OC42IDMuOTgtMjIuMyA5LjE1LTguMjkgMjAtMSAyOC4zLTYuMjIgNy44Mi02LjM1LTIuMDktMjAu Ni05LjU1LTExLjctNi4zOSA1LjQzLTE5LjggNC41Ni0yMC45LTUuMzkgMC4yOTQtOS40LTMuMjIt MTguOC0xLjE4LTI4LjEgMi4xLTguNzcgOC43OS0xNS4zIDExLjctMjMuNyAzLjgzLTcuNDUgMTMu MS0xMC44IDIxLjEtMTAuOHptODcuNSA1LjI2YzExIDEuNDYgMTcuOCAxMi41IDIxIDIyLjIgMS4z NiA4Ljg5IDMuNSAxNy42IDMuODcgMjYuNiAxLjE5IDEzLjcgMS40IDI4IDQuOSA0MS4zLTEuOTMg MTEuNi0wLjg2OSAxNC44IDAuMDU5MyAyMyAwLjE3MyA5LjkzLTAuNTc3IDIwLjQtNC41NiAyOS41 LTguMzcgMS4yMS0xMy41IDguMDEtMTkuNCAxMy41LTQuMDMgMC4zNjYtOS4wMS0wLjQzOC0xNC40 IDEuODQtNS4wMiAyLjEtMy41NSAxMi42LTUuOTUgMTQuMi0xLjI3LTEuOTctNy43OC0yMC42LTEw LjQtMjMuNy02LjYxLTUuOTgtMTkuMS0xLjQ3LTIwLjktMTEuMy0wLjcyNS05LjEzLTguNjctMTYu Ni02LjQtMjYgMC40ODYtMy4xOSAyLjgtMTcuNCA0LjExLTcgMi4wNiA5LjYgMi4xMyAyMC4zIDcu ODQgMjguNiA4LjMgNC4yOCAxOC41IDQuMTQgMjYuMyAxMC4zIDExLjEgMyAyMi4yLTIuNzcgMzEu Ni04LjIxIDcuMjgtOC4zOSA5LjAyLTIwLjUgOC4wNC0zMS4zLTIuNDktNy45LTMuODQtMTYuMi0y LjE4LTI0LjQgMi4yNi04Ljk4LTEuNTctMTcuNS0yLjg4LTI2LjItMS45NC0xMy43LTAuMzg1LTI4 LjgtOC4yNS00MC44LTYuMzktOC4zMy0xOC00LjgyLTI2LjUtMi4zMS0xMC44IDIuMjItNi43IDE0 LTcuMDYgMjEuNi0xLjQzIDkgNC41IDE2LjkgNC4wNyAyNS43LTIuNDQgOS41OSA1Ljg4IDE3LjQg My45NiAyNy4yLTEuNTcgNi43NiA2LjczIDE5LTIuMjMgMjEuMi02LjM1LTUuMDMtMy42NC0xNi4y LTEzLTE5LjEtNy4zOC00LjE5LTE2LjMgMS4wNC0yMC4zIDcuNTgtMS4yOC05LjM3IDEwLjItMTIu OCAxNy42LTEzLjIgNy4wMS0wLjM3OSAxMC40IDExLjEgMTQuNyAxMS4zIDAuOC04LjcxLTEuMDYt MTcuNi00LjkyLTI1LjQtMC4xOTctOC44NS0xLjg0LTE3LjQtMy4yNy0yNi4yIDEuNzEtOC40Ni0x Ljk1LTE2LjgtMC43MDMtMjUgMy44OS05Ljk1IDE1LjUtMTQuNyAyNS40LTE1LjR6IiBmaWxsPSIj ZmYwIi8+CiA8L2c+CiA8Zz4KICA8cGF0aCB0cmFuc2Zvcm09Im1hdHJpeCgxLjMzIDAgMCAxLjMz IC0zNy4zIC00MykiIGQ9Im04NS44IDQzLjljLTEwLjItMS4wOS0yMSA0LjAyLTI0LjggMTQtMy42 OCA3Ljg4LTEyLjIgMTUuNC04LjM3IDI0LjkgNS4xNSA3LjM4LTEuMDMgMTcgNS44NiAyNC42IDku MDEgNC44MiAxNS41LTggMjQtNC4wNyA3LjM2IDUuMDQgOC42OCAxNy42LTAuNjAyIDIxLjUtOC4w OCA1LjA0LTE5LTEuOTUtMjYuMSA1Ljc0LTguMDYgNi40NC0wLjg1NCAxNi44LTMuMDggMjUuMi0y LjExIDguNjEgMi43NyAxNS40IDcuMzkgMjEuOSAxLjI0IDguNTUgNS42NSAxOS42IDE2LjQgMTcu NSA5Ljk0IDEuMDUgMTcuNy02LjY4IDE3LjMtMTYuNSAxLjgyLTcuNDQgOS4xNi0xMS45IDExLjct MTkuMSAxLjAxLTguNzIgNi43LTE1LjkgOC4xMy0yNC4zLTEuNTgtMTQuNy02LjIyLTI5LjMtMTQu MS00MS45LTQuNjEtNy4wMi0xNi04Ljc3LTIwLjktMTMuNC0zLjQ5LTQuOTYgMTEuNy04LjczIDEz LjctMC42MDcgMy42OCA2LjA4IDEzLjUgMTAuMiAxNSAwLjE5NC0wLjUzNS04LjU2LTIuNzYtMTYu NC00LjktMjUuMy0zLjc0LTYtOS4zLTExLjMtMTYuNy0xMC4yeiIgZmlsbD0iIzAwMDEwMCIvPgog PC9nPgogPGc+CiAgPHBhdGggdHJhbnNmb3JtPSJtYXRyaXgoMS4zMyAwIDAgMS4zMyAtMzcuMyAt NDMpIiBkPSJtODYuOSA0Ny4xYzEwLjktMS45NiAxNC4yIDE0LjIgMTUuMiAxOC4xIDIuMzIgOC4z OSAzLjY4IDIyLjktNC43MSAxNC45LTUuMTgtNi4wNS0xMy4yLTE0LjYtMjAuMy01LjM2LTcuMzgg MTAuMiA4LjM4IDkuNTUgMTMuNiAxNC41IDguMjIgNS4zNiAxMS4zIDE1LjcgMTQgMjQuNiAxLjUy IDguMTkgOC4yNCAxNi4yIDQuNTUgMjQuNy01LjIgNi4yOC01Ljg0IDE0LjQtNy43NSAyMi00LjE1 IDYuNzctMTAuOCAxMi4yLTExLjUgMjAuNy0wLjg1OCAxMC4zLTEyLjIgMTMuMi0yMC4yIDkuMjUt Ni42MS01LjIxLTQuNjYtMTYuMS0xMi4xLTIxLjMtNS4yNS02Ljk0LTAuMzM5LTE2LjUtMC43NTMt MjQuNS0yLjUtMTIgMTAuNS0xMi41IDE4LjktMTMuMyA3LjgyLTIuMTUgMTguMy03Ljc2IDE3LTE3 LjQtMS4xLTguMjItNy45MS0xOS4xLTE3LjYtMTUuNS00Ljg3IDMuNi0xOC4xIDExLjItMTYuOS0w LjcyNSAxLjE2LTE5LjUtNi43Ni0xNi42LTIuMjEtMjUuMiA0LjY3LTYuNzcgNy4zLTE1LjMgMTMu Ni0yMC43IDUuMi0zLjAzIDExLjItNC41MiAxNy4yLTQuN3ptODQuNyA3LjUyYzkuMjMgMS43MyAx MS45IDEyLjYgMTMuOSAyMC41IDIuODcgMTIuNyAwLjA2IDI2LjMgNS4zIDM4LjYgMC4wNzQ2IDEw LjItMy40NCAyMC45IDAuNjc4IDMwLjggMi4xNyA5LjA0LTEuMzcgMTguMi0zLjI3IDI3LTIuMDIg OC4zNy0xMS4yIDEwLjctMTcuOSAxNC05LjY0IDQuNS0xNy45LTIuMi0yNS45LTYuNjYtOC41NSAx LjI0LTEzLjctNS42My0xNi45LTEyLjctMy4xOS04LjQ2LTMuNjItMTguMy0wLjY2Mi0yNi45IDUu NzQtOC43NiAyMS4xLTQuMjIgMjAuNiA2LjQ1IDAuMDc2OSAxMC40IDE2LjMgOS41OSAxNC0wLjUz MS0zLjgtOC44MiAzLjAxLTE4LjUtMi43OC0yNi45LTQuNTYtNy42Ni0yLjAzLTE2LjUtMy44NS0y NC40LTUuMjEtOS41OC0zLjA0LTIwLjctNC40My0zMS4xIDIuNjctNy44OCAxNC4zLTYuNjYgMjEt OC4wN3oiIGZpbGw9IiMwZjAiLz4KIDwvZz4KPC9zdmc+Cg== "/>
+  </g>
+ </g>
+ <style type="text/css">.st0{fill:#F9B978;}
+	.st1{fill:#1F3250;}
+	.st2{fill:#D6925B;stroke:#D6925B;stroke-width:6;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#1F3250;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#0C776D;}
+	.st5{fill:#1F3250;stroke:#1F3250;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#5C290C;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:#0F8E85;}
+	.st8{fill:#BEEDC4;}
+	.st9{fill:none;stroke:#1F3250;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st10{fill:#0C776D;stroke:#0C776D;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{opacity:0.86;fill:#36B2A0;}
+	.st12{fill:#7DD9D6;}
+	.st13{opacity:0.64;fill:#32B94D;}
+	.st14{fill:none;stroke:#0C776D;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#0C776D;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st16{filter:url(#Adobe_OpacityMaskFilter);}
+	.st17{mask:url(#XMLID_6_);}
+	.st18{fill:none;stroke:#1F3250;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st19{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st20{mask:url(#XMLID_7_);}
+	.st21{fill:none;stroke:#1F3250;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st22{opacity:0.51;fill:#7DB9F9;}
+	.st23{opacity:0.43;fill:#FFFFFF;}
+	.st24{opacity:0.36;fill:none;stroke:#1F3250;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st25{fill:#6DD2B9;}
+	.st26{fill:#32B94D;}
+	.st27{fill:none;stroke:#6DD2B9;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}</style>
+</svg>
