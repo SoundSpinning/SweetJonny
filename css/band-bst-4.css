@@ -259,13 +259,14 @@ footer img {
 .if-wrap {
   position: relative;
   height: 100%;
+  min-height: 200px;
 }
 
 .if-wrap a svg {
   position: relative;
 }
 
-.if-wrap a {
+.if-wrap > a {
   position: absolute;
 
   left: 50%;
@@ -278,6 +279,16 @@ footer img {
   -webkit-transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
   transition: opacity .25s cubic-bezier(0.0,0.0,0.2,1);
 } 
+
+#music .if-wrap > a {
+  top: 35%;
+}
+
+#music .card iframe {
+  margin-top: -0.9rem;
+  opacity: 0.8;
+  max-width: 270px;
+}
 
 .if-wrap a:hover {
   -moz-transition: transform 0.1s ease 0s;
