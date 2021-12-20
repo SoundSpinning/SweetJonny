@@ -151,6 +151,17 @@ p {
   color: #212529;   
 }
 
+.a-new {
+  color: rgba(94, 94, 94, 1.0);   
+}
+
+.a-new:hover {
+  background: rgba(87, 252, 16, 0.5);
+  color: yellow;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 /* Carousel */
 #photos {
   margin-top: 60px;
@@ -361,6 +372,5 @@ svg.bi {
 /* Extra large devices (large desktops, 1200px and up) */
 @media screen and (min-width : 1200px) {
 
-  }
 }
 
