@@ -1,12 +1,6 @@
 // Initialize Tooltip
-$(document).ready(function(){
-  $('[data-toggle="tooltip"]').tooltip({
-    trigger: 'hover'
-  });
-  $('[data-toggle="tooltip"]').on('click', function () {
-    $(this).tooltip('hide')
-  });
-})
+const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
 
 // Check that service workers are supported
 if ('serviceWorker' in navigator) {

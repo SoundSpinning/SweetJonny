@@ -152,12 +152,13 @@ p {
 }
 
 .a-new {
-  color: rgba(94, 94, 94, 1.0);   
+  color: rgb(161, 161, 161);
+  text-decoration: none;
 }
 
 .a-new:hover {
-  background: rgba(87, 252, 16, 0.5);
-  color: yellow;
+  background: rgba(87, 252, 16, 0.9);
+  color: rgba(255, 255, 0, 1) !important;
   font-weight: bold;
   text-decoration: none;
 }
@@ -174,12 +175,18 @@ p {
   position: static;
 }
 .carousel-indicators li {
-  width: 20px;
-  height: 15px;
+  width: 2rem !important;
+  height: 1rem !important;
 }
 .carousel-control-prev, .carousel-control-next {
-  width: 10%;
+  width: 5%;
   height: 80%;
+}
+
+.carousel-caption {
+  top: 0px;
+  right: 5%;
+  text-align: right;
 }
 
 
@@ -191,7 +198,7 @@ p {
 }
     
 @keyframes carFade {
-  from { opacity: 0.1; }
+  from { opacity: 0.05; }
   to   { opacity: 1.0; }     
 }
 
@@ -254,13 +261,14 @@ footer img {
     border-radius: 10px;
 }
 
-.close {
+.to-top {
   color: lightgray;
-  position: relative;
+  position: fixed;
   right: 15px;
+  bottom: 15px;
 }
 
-.close:hover {
+.to-top:hover {
   color: chartreuse;
 }
 
@@ -338,13 +346,13 @@ svg.bi {
 
 
 /* =================================================
-   =         Bootstrap 4.0 Media Queries             =
+   =         Bootstrap 5.2 Media Queries             =
    ================================================= */
 
   /* -------------- Mobile First Method ------------ */
 /*
 /* Extra small devices (portrait phones, less than 576px) */ 
-@media screen and (max-width : 576px) {
+@media screen and (max-width : 575.98px) {
   .carousel-inner { height: 200px; }
   .reviews { height: 225px; }
   blockquote * { font-size: 0.9rem; }
