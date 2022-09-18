@@ -2,12 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://sweetjonny.co.uk/</loc>
-    <lastmod>2022-07-03</lastmod>
+    <lastmod>2022-09-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://sweetjonny.co.uk/assets/sj-logo-opt.svg</image:loc>
         <image:title>Sweet Jonny logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://sweetjonny.co.uk/assets/I_Hate_cover.jpg</image:loc>
+        <image:title>I Hate Single Sweet Jonny 2022</image:title>
       </image:image>
       <image:image>
         <image:loc>https://sweetjonny.co.uk/assets/banger_racer.jpg</image:loc>
