@@ -39,7 +39,7 @@
 
 </head>
 
-<body id="home" data-spy="scroll" data-target="#main-bar">
+<body id="home" data-bs-spy="scroll" data-bs-target="#main-bar" data-bs-smooth-scroll="true">
 <!--[if lte IE 9]>
   <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
 <![endif]-->
@@ -50,7 +50,7 @@
     <img src="./assets/sj-logo-opt.svg" alt="Sweet Jonny logo">
     <b>S</b>weet <b>J</b>onny
   </a>
-  <a href="https://sweetjonny.ffm.to/bangerracer" target="_blank" class="a-new px-1" rel="noopener noreferrer" data-bs-toggle="tooltip" title="Banger Racer" data-bs-placement="auto" style="vertical-align: top;">New Single</a>
+  <a href="https://sweetjonny.ffm.to/ihate" target="_blank" class="a-new px-1" rel="noopener noreferrer" data-bs-toggle="tooltip" title="I Hate" data-bs-placement="auto" style="vertical-align: top;">New Single</a>
   <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#myNavbar" aria-controls="navbarNav" aria-expanded="false" aria-label="Togglenavigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -74,11 +74,19 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
 
-      <!-- Slide Single -->
+      <!-- Slide Single #2 -->
       <div class="carousel-item active">
-        <img class="d-block w-100" src="assets/banger_racer.jpg" alt="Banger Racer Single Sweet Jonny 2022">
+        <img class="mx-auto d-block w-50" src="assets/I_Hate_cover.jpg" alt="I Hate Single Sweet Jonny 2022" style="align-items: center;">
         <div class="carousel-caption">
-          <p>NEW single <a href="https://sweetjonny.ffm.to/bangerracer" target="_blank" class="a-new p-1" rel="noopener noreferrer" data-bs-toggle="tooltip" title="listen New" data-bs-placement="auto" style="vertical-align: top; color: yellow;">Banger Racer</a>
+          <p>NEW single <a href="https://sweetjonny.ffm.to/ihate" target="_blank" class="a-new p-1" rel="noopener noreferrer" data-bs-toggle="tooltip" title="listen/buy New" data-bs-placement="auto" style="vertical-align: top; color: yellow;">I Hate</a>
+        </div>  
+      </div>
+
+      <!-- Slide Single #1 -->
+      <div class="carousel-item">
+        <img class="d-block w-100" loading="lazy" src="assets/banger_racer.jpg" alt="Banger Racer Single Sweet Jonny 2022">
+        <div class="carousel-caption">
+          <p>NEW single <a href="https://sweetjonny.ffm.to/bangerracer" target="_blank" class="a-new p-1" rel="noopener noreferrer" data-bs-toggle="tooltip" title="listen/buy New" data-bs-placement="auto" style="vertical-align: top; color: yellow;">Banger Racer</a>
           <a href="https://sweetjonny.bandcamp.com/track/banger-racer" target="_blank" class="a-new p-1" rel="noopener noreferrer" style="vertical-align: top; color: yellow;">BUY now</a></p>
         </div>  
       </div>
@@ -186,12 +194,13 @@
       <li data-bs-target="#ns-myCarousel" data-bs-slide-to="12"></li>
       <li data-bs-target="#ns-myCarousel" data-bs-slide-to="13"></li>
       <li data-bs-target="#ns-myCarousel" data-bs-slide-to="14"></li>
+      <li data-bs-target="#ns-myCarousel" data-bs-slide-to="15"></li>
     </ol>
   </div>
 <!-- CAROUSEL ends -->
 </section>
 
-<p class="text-center bg-1 py-2" style="background-color: black;">More photos here 
+<p class="text-center bg-1 py-2" style="background-color: black;">More photos 
   <span class="social-icons ms-2" style="display: inline-flex;">
     <a href="https://www.instagram.com/sweeetjonny/" target="_blank"  rel="noopener noreferrer" data-bs-toggle="tooltip" title="Instagram" data-bs-placement="auto" style="background-color:#aeaeae; border-radius: 5px;"><img height="32" width="32" src="fonts/instagram.svg" alt="Instagram logo" style="vertical-align: middle;"/></a>
   </span>
@@ -203,8 +212,8 @@
   <div class="container text-center">
     <h3>DISCOGRAPHY</h3>
   
-    <p>Sweet Jonny have released a debut studio album, four EPs and one live LP. <br>
-      New single <a href="https://sweetjonny.ffm.to/bangerracer" target="_blank" class="a-new p-1" rel="noopener noreferrer" data-bs-toggle="tooltip" title="listen New" data-bs-placement="auto" style="vertical-align: top;">Banger Racer</a> will be released in Jul 2022, in advance of a new album coming in 2022.</p>
+    <p>Sweet Jonny have released to date a debut studio album and four EPs. <br>
+      New singles <a href="https://sweetjonny.ffm.to/bangerracer" target="_blank" class="a-new p-1" rel="noopener noreferrer" data-bs-toggle="tooltip" title="listen New" data-bs-placement="auto" style="vertical-align: top;">Banger Racer</a> and <a href="https://sweetjonny.ffm.to/ihate" target="_blank" class="a-new p-1" rel="noopener noreferrer" data-bs-toggle="tooltip" title="listen New" data-bs-placement="auto" style="vertical-align: top;">I Hate</a> have been released in 2022, in advance of a new studio album coming in 2023.</p>
     
     <!-- CARDS content -->
 
@@ -226,13 +235,8 @@
           name="if-sp-1" 
           frameborder="0" allowfullscreen 
           allow="encrypted-media" allowtransparency="true" 
-        >
+          >
         </iframe>
-        <!-- style="
-          background-image:url('https://i.scdn.co/image/ab67616d00001e029aff8381d690d1a4973c1eab'); 
-          background-repeat: no-repeat; background-size: contain; background-position: center;
-        " -->
-          <!-- href="https://open.spotify.com/embed/album/3tp6rly8csHfL7WRBdOihR"  -->
           <a title="Load Tracks" 
           data-bs-toggle="tooltip" data-bs-placement="auto" 
           onclick="this.remove()" 
@@ -272,9 +276,6 @@
           frameborder="0" allowfullscreen 
           allow="encrypted-media" allowtransparency="true" 
           >
-          <!-- style="
-          background-image:url('https://i.scdn.co/image/ab67616d00001e02e057b49da50769852b95fb67'); 
-          background-repeat: no-repeat; background-size: contain; background-position: center;" -->
         </iframe>
         <a title="Load Tracks" 
           data-bs-toggle="tooltip" data-bs-placement="auto" 
@@ -300,9 +301,8 @@
     </div>
     <br>
 
-    <p>Listen more here 
+    <p>Listen more 
       <span class="social-icons ms-2"><a href="https://open.spotify.com/artist/0ZYQubU5LJ8rn9RAnrPS7r" target="_blank" rel="noopener noreferrer" data-bs-toggle="tooltip" title="Spotify" data-bs-placement="auto" style="vertical-align: top;" ><img height="32" width="32" src="fonts/spotify.svg" alt="Spotify logo"/></a></span>
-      <iframe title="follow button" src="https://open.spotify.com/follow/1/?uri=spotify:artist:0ZYQubU5LJ8rn9RAnrPS7r&size=basic&theme=dark&show-count=0" width="100" height="30" scrolling="no" frameborder="0" style="border:none; overflow:hidden;vertical-align: top;" allowtransparency="true" loading="lazy"></iframe>
     </p>
   </div>
 
@@ -378,7 +378,7 @@
     </div>
     </div>
     <br>
-    <p>Watch more videos here 
+    <p>Watch more videos 
       <span class="social-icons ms-2" style="display: inline-flex;"><a href="http://www.youtube.com/user/sweeetjonny" target="_blank" rel="noopener noreferrer" data-bs-toggle="tooltip" title="YouTube" data-bs-placement="auto" style="background-color:#aeaeae; border-radius: 5px;"><img height="32" width="32" src="fonts/youtube.svg" alt="YouTube logo" style="vertical-align: middle;"/></a></span>
     </p>
   </div>
