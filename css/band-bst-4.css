@@ -354,7 +354,7 @@ svg.bi {
 /* Extra small devices (portrait phones, less than 576px) */ 
 @media screen and (max-width : 575.98px) {
   .carousel-inner { height: 200px; }
-  .reviews { height: 225px; }
+  .reviews { height: 200px; }
   blockquote * { font-size: 0.9rem; }
 }
 
@@ -367,8 +367,8 @@ svg.bi {
 
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width : 768px) {
-  .carousel-inner { height: 450px; }
-  .reviews { height: 175px; }
+  .carousel-inner { height: 400px; }
+  .reviews { height: 225px; }
   blockquote * { font-size: 1.25rem; }
 }
 
