@@ -187,6 +187,15 @@ p {
   margin-top: 60px;
   background-color: black;
 }
+
+.carousel-item {
+  max-height: 800px;
+  max-width: 1400px;
+}
+.carousel-item.active {
+  float: none;
+  margin: 0 auto;
+}
 .carousel-indicators li.active {
   background-color: rgb(87, 252, 16, 0.75);
 }
