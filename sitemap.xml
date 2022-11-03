@@ -2,12 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://sweetjonny.co.uk/</loc>
-    <lastmod>2022-09-18</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2022-10-23</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://sweetjonny.co.uk/assets/sj-logo-opt.svg</image:loc>
         <image:title>Sweet Jonny logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://sweetjonny.co.uk/assets/Cheese_Chips_cover.jpg</image:loc>
+        <image:title>Cheesy Chips Single Sweet Jonny 2022</image:title>
       </image:image>
       <image:image>
         <image:loc>https://sweetjonny.co.uk/assets/I_Hate_cover.jpg</image:loc>
@@ -18,60 +22,64 @@
         <image:title>Banger Racer Single Sweet Jonny 2022</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://sweetjonny.co.uk/assets/SJ_band_pic_2022.jpg</image:loc>
-        <image:title>Sweet Jonny 2022</image:title>
+        <image:loc>https://sweetjonny.co.uk/assets/Sweet_Jonny_The_Pipeline_Brighton_17Sep2022_23.jpg</image:loc>
+        <image:title>Sweet Jonny 2023</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://sweetjonny.co.uk/assets/SweetJonny_2020.jpg</image:loc>
-        <image:title>Sweet Jonny Arcade 2020</image:title>
+        <image:loc>https://sweetjonny.co.uk/assets/Sweet_Jonny_The_Pipeline_Brighton_17Sep2022_19.jpg</image:loc>
+        <image:title>Sweet Jonny live Brighton 2022</image:title>
       </image:image>
       <image:image>
         <image:loc>https://sweetjonny.co.uk/assets/sl2.jpg</image:loc>
         <image:title>Sweet Jonny Live</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://sweetjonny.co.uk/assets/sl4.jpg</image:loc>
-        <image:title>Sweet Jonny Live</image:title>
+        <image:loc>https://sweetjonny.co.uk/assets/Sweet_Jonny_The_Pipeline_Brighton_17Sep2022_14.jpg</image:loc>
+        <image:title>Sweet Jonny live Brighton 2022</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://sweetjonny.co.uk/assets/sl5.jpg</image:loc>
-        <image:title>Sweet Jonny Live</image:title>
+        <image:loc>https://sweetjonny.co.uk/assets/Sweet_Jonny_The_Pipeline_Brighton_17Sep2022_26.jpg</image:loc>
+        <image:title>Sweet Jonny live Brighton 2022</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://sweetjonny.co.uk/assets/sl6.jpg</image:loc>
-        <image:title>Sweet Jonny Live</image:title>
+        <image:loc>https://sweetjonny.co.uk/assets/Sweet_Jonny_The_Pipeline_Brighton_17Sep2022_33.jpg</image:loc>
+        <image:title>Sweet Jonny live Brighton 2022</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://sweetjonny.co.uk/assets/sl7.jpg</image:loc>
-        <image:title>Sweet Jonny Live</image:title>
+        <image:loc>https://sweetjonny.co.uk/assets/Sweet_Jonny_The_Pipeline_Brighton_17Sep2022_34.jpg</image:loc>
+        <image:title>Sweet Jonny live Brighton 2022</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://sweetjonny.co.uk/assets/sl8.jpg</image:loc>
-        <image:title>Sweet Jonny Live</image:title>
+        <image:loc>https://sweetjonny.co.uk/assets/Sweet_Jonny_The_Pipeline_Brighton_17Sep2022_36.jpg</image:loc>
+        <image:title>Sweet Jonny live Brighton 2022</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://sweetjonny.co.uk/assets/sl9.jpg</image:loc>
-        <image:title>Sweet Jonny Live</image:title>
+        <image:loc>https://sweetjonny.co.uk/assets/Sweet_Jonny_The_Pipeline_Brighton_17Sep2022_37.jpg</image:loc>
+        <image:title>Sweet Jonny live Brighton 2022</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://sweetjonny.co.uk/assets/sl10.jpg</image:loc>
-        <image:title>Sweet Jonny Live</image:title>
+        <image:loc>https://sweetjonny.co.uk/assets/Sweet_Jonny_The_Pipeline_Brighton_17Sep2022_18.jpg</image:loc>
+        <image:title>Sweet Jonny live Brighton 2022</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://sweetjonny.co.uk/assets/sl12.jpg</image:loc>
-        <image:title>Sweet Jonny Live</image:title>
+        <image:loc>https://sweetjonny.co.uk/assets/Sweet_Jonny_The_Pipeline_Brighton_17Sep2022_7.jpg</image:loc>
+        <image:title>Sweet Jonny live Brighton 2022</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://sweetjonny.co.uk/assets/sl13.jpg</image:loc>
-        <image:title>Sweet Jonny Live</image:title>
+        <image:loc>https://sweetjonny.co.uk/assets/Sweet_Jonny_The_Pipeline_Brighton_17Sep2022_6.jpg</image:loc>
+        <image:title>Sweet Jonny live Brighton 2022</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://sweetjonny.co.uk/assets/sl14.jpg</image:loc>
-        <image:title>Sweet Jonny Live</image:title>
+        <image:loc>https://sweetjonny.co.uk/assets/Sweet_Jonny_The_Pipeline_Brighton_17Sep2022_16.jpg</image:loc>
+        <image:title>Sweet Jonny live Brighton 2022</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://sweetjonny.co.uk/assets/sl15.jpg</image:loc>
-        <image:title>Sweet Jonny Live</image:title>
+        <image:loc>https://sweetjonny.co.uk/assets/Sweet_Jonny_The_Pipeline_Brighton_17Sep2022_27.jpg</image:loc>
+        <image:title>Sweet Jonny live Brighton 2022</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://sweetjonny.co.uk/assets/Sweet_Jonny_The_Pipeline_Brighton_17Sep2022_28.jpg</image:loc>
+        <image:title>Sweet Jonny live Brighton 2022</image:title>
       </image:image>
       <image:image>
         <image:loc>https://sweetjonny.co.uk/fonts/instagram.svg</image:loc>
@@ -98,16 +106,52 @@
         <image:title>JSA EP cover</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://sweetjonny.co.uk/fonts/facebook.svg</image:loc>
-        <image:title>Facebook logo</image:title>
+        <image:loc>https://sweetjonny.co.uk/fonts/tiktok.svg</image:loc>
+        <image:title>TikTok logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://sweetjonny.co.uk/fonts/apple.svg</image:loc>
+        <image:title>Apple logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://sweetjonny.co.uk/fonts/amazon.svg</image:loc>
+        <image:title>Amazon logo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://sweetjonny.co.uk/fonts/bandcamp.svg</image:loc>
         <image:title>Bandcamp logo</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://sweetjonny.co.uk/fonts/deezer.svg</image:loc>
+        <image:title>Deezer logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://sweetjonny.co.uk/fonts/tidal.svg</image:loc>
+        <image:title>Tidal logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://sweetjonny.co.uk/fonts/facebook.svg</image:loc>
+        <image:title>Facebook logo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://sweetjonny.co.uk/fonts/twitter.svg</image:loc>
         <image:title>Twitter logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://sweetjonny.co.uk/fonts/bandsintown.svg</image:loc>
+        <image:title>Bandsintown logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://sweetjonny.co.uk/fonts/songkick.svg</image:loc>
+        <image:title>Songkick logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://sweetjonny.co.uk/fonts/musicbrainz.svg</image:loc>
+        <image:title>Musicbrainz logo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://sweetjonny.co.uk/fonts/google.svg</image:loc>
+        <image:title>Google logo</image:title>
       </image:image>
   </url>
 </urlset>
