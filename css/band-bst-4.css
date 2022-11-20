@@ -127,8 +127,8 @@ p {
 /* Underline NavBar From Center
 ------------------------------- */
 /* Exclude devices when menu collapses */
-@media screen and (min-width : 992px) {
-  .navbar-nav > a:before {
+@media screen and (min-width : 856px) {
+  /* .navbar-nav > a:before {
       content: "";
       position: absolute;
       z-index: -1;
@@ -143,7 +143,7 @@ p {
     transition-duration: 0.5s;
     -webkit-transition-timing-function: ease-out;
     transition-timing-function: ease-out;
-  }
+  } */
   .navbar-nav > a:hover:before {
     left: 65px;
     right: 20px;
@@ -171,6 +171,13 @@ p {
 }
 
 .a-new {
+  border-style: outset;
+  border-radius: 10px;
+  border-width: 3px;
+  border-color: rgba(87, 252, 16, 0.9);
+}
+
+.a-new {
   color: rgb(161, 161, 161);
   text-decoration: none;
 }
@@ -189,9 +196,14 @@ p {
 }
 
 .carousel-item {
-  max-height: 800px;
   max-width: 1400px;
+  transition: none;
 }
+
+/* .carousel-item.single {
+  max-width: 800px;
+} */
+
 .carousel-item.active {
   float: none;
   margin: 0 auto;
@@ -223,6 +235,7 @@ p {
 .carAnim img {
   -webkit-animation: carFade 4s ease 0s infinite alternate;
   animation: carFade 4s ease 0s infinite alternate;
+  /* object-fit: scale-down; */
 }
     
 @keyframes carFade {
@@ -250,13 +263,13 @@ p {
 form {
   background-image: url('../assets/sj-logo-opt.svg'); 
   background-repeat: no-repeat; 
-  background-size: 185px; 
-  background-position: right bottom;
+  background-size: 10rem; 
+  background-position: top right;
 }
 
 form input,
 form textarea {
-  opacity: 0.9;
+  opacity: 0.85;
 }
 
 footer {
@@ -381,34 +394,48 @@ svg.bi {
 /*
 /* Extra small devices (portrait phones, less than 576px) */ 
 @media screen and (max-width : 575.98px) {
-  .top-new {
-    display: none;
-  }
-  /* .carousel-inner { height: 200px; } */
+  .carousel-inner { height: 300px; }
+  .single { width: 300px; }
   .reviews { height: 210px; }
   blockquote * { font-size: 0.9rem; }
 }
 
 /* Small devices (landscape phones, 576px and up) */ 
 @media screen and (min-width : 576px) {
-  /* .carousel-inner { height: 400px; } */
+  .carousel-inner { height: 400px; }
+  .single { width: 400px; }
   .reviews { height: 215px; }
   blockquote * { font-size: 1.15rem; }
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width : 768px) {
-  /* .carousel-inner { height: 400px; } */
+  .carousel-inner { height: 500px; }
+  .single { width: 500px; }
   .reviews { height: 225px; }
   blockquote * { font-size: 1.25rem; }
 }
 
 /* Large devices (desktops, 992px and up) */
 @media screen and (min-width : 992px) {
-  /* .carousel-inner { height: 700px; } */
+  .carousel-inner { height: 700px; }
+  .single { width: 700px; }
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media screen and (min-width : 1200px) {
+  .carousel-inner { height: 800px; }
+  .single { width: 800px; }
+}
 
+@media screen and (max-width: 856px) {
+  .navbar-nav {
+    font-size: 0.85rem;
+    }
+}
+
+@media screen and (max-width: 280px) {
+  .top-sj, .top-new { display: none; }
+  .carousel-inner { height: 150px; }
+  .single { width: 150px; }  
 }
