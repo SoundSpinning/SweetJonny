@@ -71,6 +71,23 @@ p {
   overflow: hidden;
 }
 
+#banner {
+  background: #2d2d30;
+  margin: 64px 0 0 0;
+}
+
+#banner img {
+  max-width: 230px;
+  max-height: 230px;
+  margin: 0 0 0.5rem 0;
+}
+
+#banner blockquote {
+  color: #fff;
+  font-family: 'Special Elite', cursive;
+  padding-top: 1rem;
+}
+
 #music div div div.card, #videos div div div.card, #shop div div div.card, .btn-outline-light {
   -webkit-transition: all 1s cubic-bezier(0,.29,0,.29);
   transition: all 1s cubic-bezier(0,.29,0,.29);
@@ -191,7 +208,7 @@ p {
 
 /* Carousel */
 #photos {
-  margin-top: 60px;
+  /* margin-top: 60px; */
   background-color: black;
 }
 
@@ -428,10 +445,15 @@ svg.bi {
   .single { width: 800px; }
 }
 
+/* specific screen size settings */
 @media screen and (max-width: 856px) {
   .navbar-nav {
     font-size: 0.85rem;
     }
+}
+
+@media screen and (max-width: 400px) {
+  .bot-banner, #banner footer { display: none; }
 }
 
 @media screen and (max-width: 280px) {
