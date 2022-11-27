@@ -2,13 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://sweetjonny.co.uk/</loc>
-    <lastmod>2022-10-23</lastmod>
+    <lastmod>2022-11-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://sweetjonny.co.uk/assets/sj-logo-opt.svg</image:loc>
         <image:title>Sweet Jonny logo</image:title>
       </image:image>
+      <image:image>
+        <image:loc>https://sweetjonny.co.uk/assets/sticker.png</image:loc>
+        <image:title>Sweet Jonny sticker</image:title>
+      </image:image>      
       <image:image>
         <image:loc>https://sweetjonny.co.uk/assets/Cheese_Chips_cover.jpg</image:loc>
         <image:title>Cheesy Chips Single Sweet Jonny 2022</image:title>
