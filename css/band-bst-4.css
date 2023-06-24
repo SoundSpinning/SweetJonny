@@ -278,15 +278,15 @@ p {
 }
 
 form {
-  background-image: url('../assets/sj-logo-opt.svg'); 
+  background-image: url('https://scontent.flhr3-3.fna.fbcdn.net/v/t39.30808-6/354075482_677692630846246_896588063247065577_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=h2mkdCQcySYAX-uvmlX&_nc_oc=AQlGKpmKBSuVEZu0FPPwnrna0hK9zRT_5tjf_X6OOs8cZI27vN8eEdqirDH6watHUT4&_nc_ht=scontent.flhr3-3.fna&oh=00_AfBWrHwFfEcpoF09UEqLVgKZ413TJVF8YPS8JdQg6pgKNw&oe=649CBF25'); 
   background-repeat: no-repeat; 
-  background-size: 10rem; 
-  background-position: top right;
+  background-size: 90%; 
+  background-position: top;
 }
 
 form input,
 form textarea {
-  opacity: 0.85;
+  opacity: 0.5;
 }
 
 footer {
